@@ -1,2 +1,2 @@
 # codigo_arduino
-Aqui está os códigos do nosso Arduino 
+Aqui está o código do nosso Arduino 
